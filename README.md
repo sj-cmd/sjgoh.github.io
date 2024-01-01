@@ -1,4 +1,4 @@
-# SJ Goh
+# Software Engineer/Data Science
 
 **Technical Skills:** Python, MySQL, IBM Q Experience, VS Code, Eclipse, Junit, PyTorch
 
