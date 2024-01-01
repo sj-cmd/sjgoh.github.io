@@ -3,8 +3,8 @@
 **Technical Skills:** Python, MySQL, IBM Q Experience, VS Code, Eclipse, Junit, PyTorch
 
 ## Education
-- M.S., Computer Science | Florida Institute of Technology (_August 2023 - Present_)
-- B.S., Software Engineering | Florida Institute of Technology (_May 2022_)
+- M.S., Computer Science | Florida Tech (_August 2023 - Present_)
+- B.S., Software Engineering | Florida Tech (_May 2022_)
 
 ## Work Experience
 **Graduate Research Assistant @ Florida Institute of Technology (_August 2023 - Present_)**
