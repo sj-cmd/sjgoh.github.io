@@ -24,11 +24,11 @@ Publication (in press)
 [Publication](https://arxiv.org/abs/2312.08299)
 
 ### ECG Automated Interpretation (ECGAI)
-![ECG Home Screen](GUI_Home.png)
-ECGAI Home Screen that shows its features of Image Extraction and ECG Interpretation with Query. 
+![ECG Home Screen](Images/GUI_Home.png)
+- ECGAI Home Screen that shows its features of Image Extraction and ECG Interpretation with Query. 
 
-![ECG Results Screen](GUI.png)
-ECGAI Diagnosis Results Screen that shows the patient’s information and interpretation results. 
+![ECG Results Screen](Images/GUI.png)
+- ECGAI Diagnosis Results Screen that shows the patient’s information and interpretation results. 
 
 [GUI Demo Video](https://drive.google.com/file/d/1-qP9rrQgHox8bDNeIgJ2bw7nouTjK59B/view?usp=sharing)
 
