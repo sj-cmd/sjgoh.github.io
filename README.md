@@ -23,8 +23,14 @@ Publication (in press)
 ### Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data
 [Publication](https://arxiv.org/abs/2312.08299)
 
-### ECG Automated Interpretation
-![ECG Overview]()
+### ECG Automated Interpretation (ECGAI)
+![ECG Home Screen](GUI_Home.png)
+ECGAI Home Screen that shows its features of Image Extraction and ECG Interpretation with Query. 
+
+![ECG Results Screen](GUI.png)
+ECGAI Diagnosis Results Screen that shows the patient’s information and interpretation results. 
+
+[GUI Demo Video](https://drive.google.com/file/d/1-qP9rrQgHox8bDNeIgJ2bw7nouTjK59B/view?usp=sharing)
 
 ## Publications
 1. Nguyen, V. M., Nur, N., Stern, W., Mercer, T., Sen, C., Bhattacharyya, S., ... & Goh, S. J. (2023). Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data. arXiv preprint arXiv:2312.08299.
