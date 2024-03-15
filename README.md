@@ -18,7 +18,7 @@
 
 ## Projects
 ### Natural Language Explanations for Suicide Risk Classification Using Large Language Models
-Publication (in press)
+[Publication](https://ceur-ws.org/Vol-3649/Paper5.pdf)
 
 ### Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data
 [Publication](https://arxiv.org/abs/2312.08299)
