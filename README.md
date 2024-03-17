@@ -34,3 +34,4 @@
 
 ## Publications
 1. Nguyen, V. M., Nur, N., Stern, W., Mercer, T., Sen, C., Bhattacharyya, S., ... & Goh, S. J. (2023). Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data. arXiv preprint arXiv:2312.08299.
+2. Stern, W., Goh, S. J., Nur, N., Aragon, P. J., & Mercer, T. (2024). Natural Language Explanations for Suicide Risk Classification Using Large Language Models.
