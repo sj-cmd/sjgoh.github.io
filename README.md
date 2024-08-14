@@ -1,13 +1,23 @@
 # Software Engineer/Data Science
 
-**Technical Skills:** Python, MySQL, IBM Q Experience, VS Code, Eclipse, Junit, PyTorch
+## Skills
+- **Programming Languages:** Python, MySQL, IBM Q Experience, VS Code, Eclipse, Junit, PyTorch
+- **Machine/Deep Learning Libraries:** Scikit-Learn, PyTorch, Pandas, NumPy
+- **Areas of Machine Learning Research:** Natural Language Processing, Explainable AI, Regression & Classification
+- **IDE:** Visual Studio, IntelliJ IDEA, Eclipse
+- **Alternate Technologies:** IBM Q Experience, Junit, GitHub, MySQL, ReactJS
 
 ## Education
 - M.S., Computer Science | Florida Tech (_August 2023 - Present_)
 - B.S., Software Engineering | Florida Tech (_May 2022_)
 
 ## Work Experience
-**Graduate Research Assistant @ Florida Institute of Technology (_August 2023 - Present_)**
+**Graduate Student Assistant @  Florida Institute of Technology (_August 2023 - Present_)**
+- Supported faculty in grading and holding office hours in the Applied Discrete Mathematics course for around 100 students.
+- Fulfilled short-term instructor responsibilities by assisting with the Applied Discrete Mathematics course materials.
+- Offered guidance and support to students through the Computer Science Help Desk on various computing courses.
+
+**Graduate Research Assistant @ Florida Institute of Technology (_August 2022 - August 2023_)**
 - Conducted a user study using expert-automated social media posts to identify common diagnosis patterns for suicide and depression.
 - Evaluated the generated explanations against the explanations that were written by the mental health participants in the user study using Machine Learning/ Natural Language Processing metrics.
 - Oversaw data collection, scraping, and mining in the ethical landscape of Artificial Intelligence integration in educational settings.
@@ -33,5 +43,8 @@
 [GUI Demo Video](https://drive.google.com/file/d/1-qP9rrQgHox8bDNeIgJ2bw7nouTjK59B/view?usp=sharing)
 
 ## Publications
-1. Nguyen, V. M., Nur, N., Stern, W., Mercer, T., Sen, C., Bhattacharyya, S., ... & Goh, S. J. (2023). Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data. arXiv preprint arXiv:2312.08299.
-2. Stern, W., Goh, S. J., Nur, N., Aragon, P. J., & Mercer, T. (2024). Natural Language Explanations for Suicide Risk Classification Using Large Language Models.
+1. Nur, N., S. J. Goh, J. Patel, and M. Mizrahi. "NAVIGATING THE ETHICAL LANDSCAPE OF AI INTEGRATION IN EDUCATIONAL SETTINGS." In INTED2024 Proceedings, pp. 7654-7663. IATED, 2024.
+2. Stern, William, Seng Jhing Goh, Nasheen Nur, Patrick J. Aragon, and Thomas Mercer. "Natural Language Explanations for Suicide Risk Classification Using Large Language Models." (2024).
+3. Nur, Nasheen, William Stern, Thomas Mercer, Chiradeep Sen, Siddhartha Bhattacharyya, Victor Tumbiolo, and Seng Jhing Goh. "Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data." In 2023 International Conference on Machine Learning and Applications (ICMLA), pp. 2095-2102. IEEE, 2023.
+
+
