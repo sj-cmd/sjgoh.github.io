@@ -1,4 +1,4 @@
-# Software Engineer/Data Science
+# Software Engineer/Data Science/AI Prompt Engineer
 
 ## Skills
 - **Programming Languages:** Python, MySQL, IBM Q Experience, VS Code, Eclipse, Junit, PyTorch
@@ -8,16 +8,16 @@
 - **Alternate Technologies:** IBM Q Experience, Junit, GitHub, MySQL, ReactJS
 
 ## Education
-- M.S., Computer Science | Florida Tech (_August 2023 - Present_)
+- M.S., Computer Science | Florida Tech (_August 2023 - December 2025_)
 - B.S., Software Engineering | Florida Tech (_May 2022_)
 
 ## Work Experience
-**Graduate Student Assistant @  Florida Institute of Technology (_August 2023 - Present_)**
+**Graduate Student Assistant @  Florida Institute of Technology (_August 2023 - December 2025_)**
 - Supported faculty in grading and holding office hours in the Applied Discrete Mathematics course for around 100 students.
 - Fulfilled short-term instructor responsibilities by assisting with the Applied Discrete Mathematics course materials.
 - Offered guidance and support to students through the Computer Science Help Desk on various computing courses.
 
-**Graduate Research Assistant @ Florida Institute of Technology (_August 2022 - August 2023_)**
+**Graduate Research Assistant @ Florida Institute of Technology (_August 2022 - December 2025_)**
 - Conducted a user study using expert-automated social media posts to identify common diagnosis patterns for suicide and depression.
 - Evaluated the generated explanations against the explanations that were written by the mental health participants in the user study using Machine Learning/ Natural Language Processing metrics.
 - Oversaw data collection, scraping, and mining in the ethical landscape of Artificial Intelligence integration in educational settings.
