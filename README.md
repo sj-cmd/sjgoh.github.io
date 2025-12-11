@@ -46,7 +46,3 @@
 1. Nur, N., S. J. Goh, J. Patel, and M. Mizrahi. "NAVIGATING THE ETHICAL LANDSCAPE OF AI INTEGRATION IN EDUCATIONAL SETTINGS." In INTED2024 Proceedings, pp. 7654-7663. IATED, 2024.
 2. Stern, William, Seng Jhing Goh, Nasheen Nur, Patrick J. Aragon, and Thomas Mercer. "Natural Language Explanations for Suicide Risk Classification Using Large Language Models." (2024).
 3. Nur, Nasheen, William Stern, Thomas Mercer, Chiradeep Sen, Siddhartha Bhattacharyya, Victor Tumbiolo, and Seng Jhing Goh. "Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data." In 2023 International Conference on Machine Learning and Applications (ICMLA), pp. 2095-2102. IEEE, 2023.
-
-### Curriculum Vitae
-[CV]()
-
