@@ -5,7 +5,7 @@
 - **Machine/Deep Learning Libraries:** Scikit-Learn, PyTorch, Pandas, NumPy
 - **Areas of Machine Learning Research:** Natural Language Processing, Explainable AI, Regression & Classification
 - **IDE:** Visual Studio, IntelliJ IDEA, Eclipse
-- **Alternate Technologies:** IBM Q Experience, Junit, GitHub, MySQL, ReactJS
+- **Alternate Technologies:** IBM Q Experience, Junit, GitHub, MySQL, ReactJS, Ollama
 
 ## Education
 - M.S., Computer Science | Florida Tech (_August 2023 - December 2025_)
@@ -47,4 +47,6 @@
 2. Stern, William, Seng Jhing Goh, Nasheen Nur, Patrick J. Aragon, and Thomas Mercer. "Natural Language Explanations for Suicide Risk Classification Using Large Language Models." (2024).
 3. Nur, Nasheen, William Stern, Thomas Mercer, Chiradeep Sen, Siddhartha Bhattacharyya, Victor Tumbiolo, and Seng Jhing Goh. "Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data." In 2023 International Conference on Machine Learning and Applications (ICMLA), pp. 2095-2102. IEEE, 2023.
 
+### Curriculum Vitae
+[CV]()
 
